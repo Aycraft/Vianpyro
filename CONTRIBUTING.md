@@ -5,8 +5,8 @@ Vous pouvez les installer en utilisant les paramètres par défaut qu'ils vous f
 # Rejoignez l'équipe !
 Nous recrutons !
 Les rôles pour lesquels nous recrutons sont listés dans le formulaire de candidature ci-joint.
-Merci de remplir ce dernier sérieusement. Nous sommes désolé mais nous n'acceptons pas les candidatures par mail pour le moment.
+Merci de remplir ce dernier sérieusement. Nous sommes désolés mais nous n'acceptons pas les candidatures par mail pour le moment.
 Alors si vous êtes motivé(e), n'hésitez surtout pas à [nous envoyer une candidature](https://goo.gl/forms/P3tbQquA8DjmWIOC3) et à [rejoindre le serveur Discord](https://discord.gg/vqRNfaC) !
 
-# "Forker" le "Repository" voulu
+# "Forker" le "repository" voulu
 Vous pouvez "Forker" un "repository" plutôt que de juste en créer un, c'est comme vous voulez ; un "fork" crée en fait un "repository" sur votre page de profil, et est lié au projet original.

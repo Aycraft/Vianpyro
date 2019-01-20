@@ -11,3 +11,6 @@
 # Connection des joueurs
 execute as @a unless score @s UUID matches 1.. run function commun:connection
 execute as @a if score @s leaveGame matches 1.. run function commun:connection
+
+# Execution de la bossbar du spawn si des joueurs y sont (à préciser)
+execute if entity @a run function spawn:bossbar

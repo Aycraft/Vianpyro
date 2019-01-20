@@ -17,3 +17,6 @@ tellraw @a ["",{"text":"§7§lServeur » §r"},{"text":"Initialisation des score
 # OLD spawn_Menu : Supporte les informations relatives à la page du menu à afficher
 # À retravailler !!
 scoreboard objectives add spawn_Menu dummy
+
+# spawnBossbar : Supporte les informations relatives à la bossbar du spawn
+scoreboard objectives add spawnBossbar dummy

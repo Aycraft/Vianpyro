@@ -1,5 +1,5 @@
 # Aycraft
-**Aycraft** est un serveur Minecraft full vanilla, voici son ip :
+**Aycraft** est un serveur Minecraft full vanilla **1.12.x**, voici son ip : `137.74.156.211`
 ## Un peu d'histoire
 Ce serveur a une très longue histoire, il a commencé le (s'il vous plaît propriétaire, insérez la date de fondation), et est encore actif aujourd'hui !
 ## Commencez à travailler !

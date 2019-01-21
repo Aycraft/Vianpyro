@@ -9,7 +9,6 @@
 #
 # ==================================================================================================
 
-
 # Creation du score de vérifications
 scoreboard objectives add cLoad dummy
 

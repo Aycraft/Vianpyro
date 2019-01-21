@@ -14,3 +14,6 @@ execute as @a if score @s leaveGame matches 1.. run function commun:connection
 
 # Execution de la bossbar du spawn si des joueurs y sont (à préciser)
 execute if entity @a run function spawn:bossbar
+
+# Execution des commandes personnalisées
+execute if entity @a run function commandes:cmd

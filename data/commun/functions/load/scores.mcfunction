@@ -18,10 +18,13 @@ scoreboard objectives add communBasicMoved dummy
 scoreboard objectives add communEyeMoved dummy
 scoreboard objectives add communEyeX dummy
 scoreboard objectives add communEyeY dummy
+scoreboard objectives add communLoginMsg dummy
+scoreboard objectives add communLoginTitle dummy
 scoreboard objectives add communFullMoved dummy
 scoreboard objectives add communMoveX dummy
 scoreboard objectives add communMoveY dummy
 scoreboard objectives add communMoveZ dummy
+scoreboard objectives add leaveGame minecraft.custom:minecraft.leave_game
 scoreboard objectives add minecraftAnimals minecraft.custom:minecraft.animals_bred
 scoreboard objectives add minecraftAviate minecraft.custom:minecraft.aviate_one_cm
 scoreboard objectives add minecraftBoat minecraft.custom:minecraft.boat_one_cm

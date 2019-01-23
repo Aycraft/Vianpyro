@@ -28,5 +28,5 @@ Ajoutez des captures d'écran pour expliquer plus explicitement votre problème.
  - Version de Minecraft que vous utilisez.
  - Version du serveur au moment du bug.
 
-Contexte supplémentaire****
+**Contexte supplémentaire**
 Ajoutez ici tout autre information sur le problème.

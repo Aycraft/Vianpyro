@@ -13,3 +13,4 @@
 
 function commun:load
 function spawn:load
+function commandes:load

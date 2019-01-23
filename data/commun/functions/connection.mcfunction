@@ -18,4 +18,5 @@ execute unless score @s UUID matches 1.. run function commun:outils/set_uuid
 execute if score @s leaveGame matches 1.. run function commun:outils/teleportation_options
 execute if score @s leaveGame matches 1.. run function commun:connection/messages
 execute if score @s leaveGame matches 1.. run function commun:connection/titles
+execute at @s if score @s leaveGame matches 1.. run function commun:connection/sons
 scoreboard players set @s leaveGame 0

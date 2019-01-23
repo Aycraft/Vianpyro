@@ -19,6 +19,7 @@ scoreboard objectives add communEyeMoved dummy
 scoreboard objectives add communEyeX dummy
 scoreboard objectives add communEyeY dummy
 scoreboard objectives add communLoginMsg dummy
+scoreboard objectives add communLoginSon dummy
 scoreboard objectives add communLoginTitle dummy
 scoreboard objectives add communFullMoved dummy
 scoreboard objectives add communMoveX dummy

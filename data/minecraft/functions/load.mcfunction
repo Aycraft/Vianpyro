@@ -1,7 +1,6 @@
 # ==================================================================================================
-# This function must only be executed by the "load.json" function.
-# It will call the initialization functions of the entire server.
-# It corresponds to the main function of the Server.
+# Cette fonction doit seulement être executée par la fonction "load.json".
+# Elle va appeller la fonction d'initialisation de l'ensemble du serveur.
 #
 # Trigger mode: load
 # Trigger(s): load.json
@@ -11,6 +10,7 @@
 # ==================================================================================================
 
 
+function commandes:load
 function commun:load
 function spawn:load
-function commandes:load
+function stats:load

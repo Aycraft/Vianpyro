@@ -12,6 +12,9 @@
 execute as @a unless score @s UUID matches 1.. run function commun:connection
 execute as @a if score @s leaveGame matches 1.. run function commun:connection
 
+# Envoi des messages automatiques
+execute if entity @a run function commun:messages_auto
+
 # Execution de la bossbar du spawn si des joueurs y sont (à préciser)
 execute if entity @a run function spawn:bossbar
 

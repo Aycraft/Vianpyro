@@ -19,7 +19,7 @@ team modify Fondateur color white
 team modify Fondateur deathMessageVisibility never
 team modify Fondateur friendlyFire true
 team modify Fondateur nametagVisibility always
-team modify Fondateur prefix ["",{"text":"Fondateur ","color":"gold","bold":"true"},{"text":" » ","color":"gray"}]
+team modify Fondateur prefix ["",{"text":"Fondateur ","color":"gold","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Fondateur seeFriendlyInvisibles false
 
 team add Administrateur
@@ -28,7 +28,7 @@ team modify Administrateur color white
 team modify Administrateur deathMessageVisibility never
 team modify Administrateur friendlyFire true
 team modify Administrateur nametagVisibility always
-team modify Administrateur prefix ["",{"text":"Admin ","color":"dark_red","bold":"true"},{"text":" » ","color":"gray"}]
+team modify Administrateur prefix ["",{"text":"Admin ","color":"dark_red","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Administrateur seeFriendlyInvisibles false
 
 team add Chef-Ingenieur
@@ -37,7 +37,7 @@ team modify Chef-Ingenieur color white
 team modify Chef-Ingenieur deathMessageVisibility never
 team modify Chef-Ingenieur friendlyFire true
 team modify Chef-Ingenieur nametagVisibility always
-team modify Chef-Ingenieur prefix ["",{"text":"Chef-Ingénieur ","color":"dark_green","bold":"true"},{"text":" » ","color":"gray"}]
+team modify Chef-Ingenieur prefix ["",{"text":"Chef-Ingénieur ","color":"dark_green","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Chef-Ingenieur seeFriendlyInvisibles false
 
 team add Chef-Builder
@@ -46,7 +46,7 @@ team modify Chef-Builder color white
 team modify Chef-Builder deathMessageVisibility never
 team modify Chef-Builder friendlyFire true
 team modify Chef-Builder nametagVisibility always
-team modify Chef-Builder prefix ["",{"text":"Chef-Builder ","color":"blue","bold":"true"},{"text":" » ","color":"gray"}]
+team modify Chef-Builder prefix ["",{"text":"Chef-Builder ","color":"blue","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Chef-Builder seeFriendlyInvisibles false
 
 team add Chef-Moderateur
@@ -55,7 +55,7 @@ team modify Chef-Moderateur color white
 team modify Chef-Moderateur deathMessageVisibility never
 team modify Chef-Moderateur friendlyFire true
 team modify Chef-Moderateur nametagVisibility always
-team modify Chef-Moderateur prefix ["",{"text":"Chef-Modérateur ","color":"red","bold":"true"},{"text":" » ","color":"gray"}]
+team modify Chef-Moderateur prefix ["",{"text":"Chef-Modérateur ","color":"red","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Chef-Moderateur seeFriendlyInvisibles false
 
 team add Ingenieur
@@ -64,7 +64,7 @@ team modify Ingenieur color white
 team modify Ingenieur deathMessageVisibility never
 team modify Ingenieur friendlyFire true
 team modify Ingenieur nametagVisibility always
-team modify Ingenieur prefix ["",{"text":"Ingénieur ","color":"green","bold":"true"},{"text":" » ","color":"gray"}]
+team modify Ingenieur prefix ["",{"text":"Ingénieur ","color":"green","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Ingenieur seeFriendlyInvisibles false
 
 team add Builder
@@ -73,7 +73,7 @@ team modify Builder color white
 team modify Builder deathMessageVisibility never
 team modify Builder friendlyFire true
 team modify Builder nametagVisibility always
-team modify Builder prefix ["",{"text":"Builder ","color":"dark_aqua","bold":"true"},{"text":" » ","color":"gray"}]
+team modify Builder prefix ["",{"text":"Builder ","color":"dark_aqua","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Builder seeFriendlyInvisibles false
 
 team add Moderateur
@@ -82,7 +82,7 @@ team modify Moderateur color white
 team modify Moderateur deathMessageVisibility never
 team modify Moderateur friendlyFire true
 team modify Moderateur nametagVisibility always
-team modify Moderateur prefix ["",{"text":"Modérateur ","color":"yellow","bold":"true"},{"text":" » ","color":"gray"}]
+team modify Moderateur prefix ["",{"text":"Modérateur ","color":"yellow","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Moderateur seeFriendlyInvisibles false
 
 team add Assistant
@@ -91,7 +91,7 @@ team modify Assistant color white
 team modify Assistant deathMessageVisibility never
 team modify Assistant friendlyFire true
 team modify Assistant nametagVisibility always
-team modify Assistant prefix ["",{"text":"Assistant ","color":"aqua","bold":"true"},{"text":" » ","color":"gray"}]
+team modify Assistant prefix ["",{"text":"Assistant ","color":"aqua","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Assistant seeFriendlyInvisibles false
 
 team add Legende
@@ -100,7 +100,7 @@ team modify Legende color white
 team modify Legende deathMessageVisibility never
 team modify Legende friendlyFire true
 team modify Legende nametagVisibility always
-team modify Legende prefix ["",{"text":"Légende ","color":"dark_purple"},{"text":" » ","color":"gray"}]
+team modify Legende prefix ["",{"text":"Légende ","color":"dark_purple"},{"text":"» ","color":"gray"}]
 team modify Legende seeFriendlyInvisibles false
 
 team add Hero
@@ -109,7 +109,7 @@ team modify Hero color white
 team modify Hero deathMessageVisibility never
 team modify Hero friendlyFire true
 team modify Hero nametagVisibility always
-team modify Hero prefix ["",{"text":"Héro ","color":"light_purple"},{"text":" » ","color":"gray"}]
+team modify Hero prefix ["",{"text":"Héro ","color":"light_purple"},{"text":"» ","color":"gray"}]
 team modify Hero seeFriendlyInvisibles false
 
 team add MVP++
@@ -118,7 +118,7 @@ team modify MVP++ color white
 team modify MVP++ deathMessageVisibility never
 team modify MVP++ friendlyFire true
 team modify MVP++ nametagVisibility always
-team modify MVP++ prefix ["",{"text":"MVP++ ","color":"gold"},{"text":" » ","color":"gray"}]
+team modify MVP++ prefix ["",{"text":"MVP++ ","color":"gold"},{"text":"» ","color":"gray"}]
 team modify MVP++ seeFriendlyInvisibles false
 
 team add MVP+
@@ -127,7 +127,7 @@ team modify MVP+ color white
 team modify MVP+ deathMessageVisibility never
 team modify MVP+ friendlyFire true
 team modify MVP+ nametagVisibility always
-team modify MVP+ prefix ["",{"text":"MVP+ ","color":"dark_aqua"},{"text":" » ","color":"gray"}]
+team modify MVP+ prefix ["",{"text":"MVP+ ","color":"dark_aqua"},{"text":"» ","color":"gray"}]
 team modify MVP+ seeFriendlyInvisibles false
 
 team add MVP
@@ -136,7 +136,7 @@ team modify MVP color white
 team modify MVP deathMessageVisibility never
 team modify MVP friendlyFire true
 team modify MVP nametagVisibility always
-team modify MVP prefix ["",{"text":"MVP ","color":"dark_aqua"},{"text":" » ","color":"gray"}]
+team modify MVP prefix ["",{"text":"MVP ","color":"dark_aqua"},{"text":"» ","color":"gray"}]
 team modify MVP seeFriendlyInvisibles false
 
 team add Ami
@@ -145,7 +145,7 @@ team modify Ami color white
 team modify Ami deathMessageVisibility never
 team modify Ami friendlyFire true
 team modify Ami nametagVisibility always
-team modify Ami prefix ["",{"text":"Ami ","color":"light_purple"},{"text":" » ","color":"gray"}]
+team modify Ami prefix ["",{"text":"Ami ","color":"light_purple"},{"text":"» ","color":"gray"}]
 team modify Ami seeFriendlyInvisibles false
 
 team add VIP+
@@ -154,7 +154,7 @@ team modify VIP+ color white
 team modify VIP+ deathMessageVisibility never
 team modify VIP+ friendlyFire true
 team modify VIP+ nametagVisibility always
-team modify VIP+ prefix ["",{"text":"VIP+ ","color":"green"},{"text":" » ","color":"gray"}]
+team modify VIP+ prefix ["",{"text":"VIP+ ","color":"green"},{"text":"» ","color":"gray"}]
 team modify VIP+ seeFriendlyInvisibles false
 
 team add VIP
@@ -163,5 +163,5 @@ team modify VIP color white
 team modify VIP deathMessageVisibility never
 team modify VIP friendlyFire true
 team modify VIP nametagVisibility always
-team modify VIP prefix ["",{"text":"VIP ","color":"green"},{"text":" » ","color":"gray"}]
+team modify VIP prefix ["",{"text":"VIP ","color":"green"},{"text":"» ","color":"gray"}]
 team modify VIP seeFriendlyInvisibles false

@@ -25,6 +25,7 @@ scoreboard objectives add communFullMoved dummy
 scoreboard objectives add communMoveX dummy
 scoreboard objectives add communMoveY dummy
 scoreboard objectives add communMoveZ dummy
+scoreboard objectives add communMsgAuto dummy
 scoreboard objectives add leaveGame minecraft.custom:minecraft.leave_game
 scoreboard objectives add minecraftAnimals minecraft.custom:minecraft.animals_bred
 scoreboard objectives add minecraftAviate minecraft.custom:minecraft.aviate_one_cm

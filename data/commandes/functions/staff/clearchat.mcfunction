@@ -10,5 +10,7 @@
 
 # Nettoyage du chat
 tellraw @a ["",{"text":"\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"}]
-tellraw @a ["",{"text":"Le chat à été nettoyé par ","color":"green"},{"selector":"@s"}]
-scoreboard players reset * cmdClearchat
+tellraw @a ["",{"text":"§7§lServeur » §r"},{"text":"Le chat à été nettoyé par ","color":"green"},{"selector":"@s"}]
+
+# Reinitialisation du score qui detecte la commande
+scoreboard players set @s cmdRunStaffCmd 0

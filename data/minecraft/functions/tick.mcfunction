@@ -16,4 +16,8 @@ execute as @a if score @s leaveGame matches 1.. run function commun:connection
 execute if entity @a run function spawn:bossbar
 
 # Execution des commandes personnalisées
-execute if entity @a run function commandes:cmd
+scoreboard players enable @a cmdRunCmd
+scoreboard players enable @a cmdRunStaffCmd
+execute as @a if score @s cmdRunCmd matches 1.. run function commandes:cmd
+execute as @a if score @s cmdRunStaffCmd matches 1.. run function commandes:staff_cmd
+execute if entity @a run function commandes:cmd_effects

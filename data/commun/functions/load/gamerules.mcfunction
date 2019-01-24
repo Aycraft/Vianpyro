@@ -38,3 +38,9 @@ gamerule sendCommandFeedback false
 gamerule showDeathMessages false
 gamerule spawnRadius 0
 gamerule spectatorsGenerateChunks false
+
+# Définition d'autres règles diverses
+defaultgamemode adventure
+setworldspawn 0 1 0
+worldborder center 0 0
+worldborder set 50000

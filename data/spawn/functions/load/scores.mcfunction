@@ -13,7 +13,6 @@
 scoreboard players set spawnLoad spawnLoad 1
 tellraw @a ["",{"text":"§7§lServeur » §r"},{"text":"Initialisation des scores du spawn réussie","color":"green"}]
 
-
 # OLD spawn_Menu : Supporte les informations relatives à la page du menu à afficher
 # À retravailler !!
 scoreboard objectives add spawn_Menu dummy

@@ -2,7 +2,7 @@
 # Cette fonction gère l'execution des toutes les commandes personnalisées.
 #
 # Mode de déclenchament : tick
-# Déclencheur(s) : "tick.mcfunction"
+# Déclencheur(s) : "minecraft:tick"
 #
 # Tags utilisés :
 #

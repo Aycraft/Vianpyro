@@ -3,7 +3,7 @@
 # Il appellera les fonctions du fichier du spawn "load".
 #
 # Type d'activation : load
-# Activateur(s) : "load.json"
+# Activateur(s) : "minecraft:load"
 #
 # Tag(s) utilisé(s) :
 #

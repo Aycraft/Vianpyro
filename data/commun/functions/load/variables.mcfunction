@@ -4,7 +4,7 @@
 # Le nom du score des entiers est "i" ; il est très rapide à écire, et très facile à mémoriser !
 #
 # Type d'activation : load
-# Activateur(s) : load.mcfunction
+# Activateur(s) : "commun:load"
 #
 # Tag(s) utilisé(s):
 #

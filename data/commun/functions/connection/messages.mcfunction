@@ -2,7 +2,7 @@
 # Cette fonction appelle les differents messages de connection des joueurs.
 #
 # Mode de déclenchament : event
-# Déclencheur(s) : "connection.mcfunction"
+# Déclencheur(s) : "commun:connection"
 #
 # Tags utilisés :
 #

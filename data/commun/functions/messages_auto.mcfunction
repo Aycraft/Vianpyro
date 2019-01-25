@@ -2,7 +2,7 @@
 # Cette fonction sert à envoyer régulièrement des messages dans le chat.
 #
 # Type d'activation : tick
-# Activateur(s) : "tick.json"
+# Activateur(s) : "minecraft:tick"
 #
 # Tag(s) utilisé(s) :
 #

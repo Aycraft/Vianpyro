@@ -1,15 +1,12 @@
-#========================================
-# Mode de déclenchement :
-	# Event
-
-# Fonction du fichier :
-	# Assure la protection aux joueurs qui appellent la fonction.
-
-# Tags utilisés :
-	# ----
-#========================================
-
-
+# ==================================================================================================
+# Cette fonction assure la protection aux joueurs qui l'éxecutent.
+#
+# Type d'activation : event
+# Activateur(s) : non définit
+#
+# Tag(s) utilisé(s) :
+#
+# ==================================================================================================
 
 # Rétablissement de la nourriture
 execute unless entity @s[nbt={foodLevel:20}] run effect give @s saturation 1 255 true

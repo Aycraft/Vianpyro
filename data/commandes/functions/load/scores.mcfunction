@@ -2,7 +2,7 @@
 # Cette fonction crée tous les scores relatifs aux commandes personalisées.
 #
 # Type d'activation : load
-# Activateur(s) : "load.mcfunction"
+# Activateur(s) : "commandes:load"
 #
 # Tag(s) utilisé(s) :
 #

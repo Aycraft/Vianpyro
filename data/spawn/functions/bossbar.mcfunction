@@ -2,7 +2,7 @@
 # Elle gère la bossbar du spawn.
 #
 # Type d'activation : tick
-# Activateur(s) : "tick.mcfunction"
+# Activateur(s) : "minecraft:tick"
 #
 # Tag(s) utilisé(s) :
 #

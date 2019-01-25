@@ -3,7 +3,7 @@
 # Elle contient tous les scores du serveur.
 #
 # Type d'activation : load
-# Activateur(s) : load.mcfunction
+# Activateur(s) : "commun:load"
 #
 # Tags utiliés :
 #

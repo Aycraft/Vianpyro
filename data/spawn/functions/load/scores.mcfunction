@@ -3,7 +3,7 @@
 # Elle contient tous les scores relatifs au spawn.
 #
 # Type d'activation : load
-# Activateur(s) : "load"
+# Activateur(s) : "spawn:load"
 #
 # Tag(s) utilisé(s) :
 #

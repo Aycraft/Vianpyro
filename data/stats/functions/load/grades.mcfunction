@@ -2,7 +2,7 @@
 # Cette fonction va générer tous les grades utilisés sur le serveur.
 #
 # Mode d'activation : load
-# Activateur(s) : "load"
+# Activateur(s) : "stats:load"
 #
 # Tags utilisés :
 #

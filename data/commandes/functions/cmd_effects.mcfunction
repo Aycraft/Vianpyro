@@ -2,7 +2,7 @@
 # Cette fonction gère l'attribution des effets à donner en fonction des commandes effectuées.
 #
 # Mode de déclenchament : tick
-# Déclencheur(s) : "tick.mcfunction"
+# Déclencheur(s) : "minecraft:tick"
 #
 # Tags utilisés :
 #

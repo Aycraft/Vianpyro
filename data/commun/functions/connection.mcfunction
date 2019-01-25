@@ -1,8 +1,8 @@
 # ==================================================================================================
-# Cette fonction gère la connection des joueurs.
+# Cette fonction gère la connection et l'attribution de l'UUID des joueurs.
 #
-# Mode de déclenchament : tick
-# Déclencheur(s) : "tick.mcfunction"
+# Mode de déclenchement : tick
+# Déclencheur(s) : "minecraft:tick"
 #
 # Tags utilisés :
 #
@@ -16,6 +16,7 @@ execute unless score @s UUID matches 1.. run function commun:outils/set_uuid
 
 # Connection
 execute if score @s leaveGame matches 1.. run function commun:outils/teleportation_options
+execute if score @s leaveGame matches 1.. run tp @s 0 1 0 0 0
 execute if score @s leaveGame matches 1.. run function commun:connection/messages
 execute if score @s leaveGame matches 1.. run function commun:connection/titles
 execute at @s if score @s leaveGame matches 1.. run function commun:connection/sons

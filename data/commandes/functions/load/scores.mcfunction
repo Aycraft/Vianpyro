@@ -15,4 +15,5 @@ tellraw @a ["",{"text":"§7§lServeur » §r"},{"text":"Initialisation des score
 # Scores
 scoreboard objectives add cmdRunCmd trigger
 scoreboard objectives add cmdRunStaffCmd trigger
+scoreboard objectives add cmdRunFreeze trigger
 scoreboard objectives add cmdHelpopMessage dummy

@@ -16,13 +16,14 @@ execute if score @s cmdRunStaffCmd matches 0 run scoreboard players reset @s cmd
 # 1 - Clearchat : Vide tout le chat pour tous les joueurs
 execute if score @s cmdRunStaffCmd matches 1 run function commandes:staff/clearchat
 
-# 3 - Freeze <player>(id) : Immobiliser un joueur
-# 4 - God : Se rendre invincible
-execute if score @s cmdRunStaffCmd matches 4 run function commandes:staff/god
+# 2 - God : Se rendre invincible
+execute if score @s cmdRunStaffCmd matches 2 run function commandes:staff/god
 
-# 5 - Modotools : Obtenir les objets de modération
-# 6 - Vanish : Disparaître
-execute if score @s cmdRunStaffCmd matches 6 run function commandes:staff/vanish
+# 3 - Modotools : Obtenir les objets de modération
+execute if score @s cmdRunStaffCmd matches 3 run function commandes:staff/modotools
+
+# 4 - Vanish : Disparaître
+execute if score @s cmdRunStaffCmd matches 4 run function commandes:staff/vanish
 
 # Réinitialisation du score de detection de l'execution d'une commande par un joueur
 execute if score @s cmdRunStaffCmd matches 1.. run tellraw @s ["",{"text":"§7§lServeur » §r"},{"text":"Cette commande n'existe pas","color":"red"}]

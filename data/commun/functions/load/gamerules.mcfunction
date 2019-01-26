@@ -3,7 +3,7 @@
 # Elle contient les gamerules.
 #
 # Type d'activation : load
-# Activateur(s) : load.mcfunction
+# Activateur(s) : "commun:load"
 #
 # Tags utilisés :
 #

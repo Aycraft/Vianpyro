@@ -2,7 +2,7 @@
 # Cette fonction sert à vider le chat de tous les joueurs.
 #
 # Mode de déclenchament : event
-# Déclencheur(s) : "cmd.mcfunction"
+# Déclencheur(s) : "commandes:cmd_staff"
 #
 # Tags utilisés :
 #

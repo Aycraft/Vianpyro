@@ -2,7 +2,7 @@
 # Cette fonction attribue une "user unique identity" aux joueurs qui l'éxecutent.
 #
 # Type d'activation : event
-# Activateur(s) : non définit
+# Activateur(s) : "commun:connection"
 #
 # Tag(s) utilisé(s) :
 #

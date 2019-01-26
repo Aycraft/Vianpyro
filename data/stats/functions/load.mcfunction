@@ -3,7 +3,7 @@
 # Elle va appeller la fonction d'initialisation de l'ensemble des statistiques.
 #
 # Mode d'activation : load
-# Activateur(s) : "load.json"
+# Activateur(s) : "minecraft:load"
 #
 # Tags utilisés :
 #

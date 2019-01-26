@@ -3,7 +3,7 @@
 # Elle contient tous les scores relatifs aux statistiques.
 #
 # Type d'activation : load
-# Activateur(s) : "load"
+# Activateur(s) : "stats:load"
 #
 # Tag(s) utilisé(s) :
 #

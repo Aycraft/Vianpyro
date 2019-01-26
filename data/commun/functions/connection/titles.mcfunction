@@ -2,7 +2,7 @@
 # Cette fonction appelle les differents titres affichés lors de la connection des joueurs.
 #
 # Mode de déclenchament : event
-# Déclencheur(s) : "connection.mcfunction"
+# Déclencheur(s) : "commun:connection"
 #
 # Tags utilisés :
 #

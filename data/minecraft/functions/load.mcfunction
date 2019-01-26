@@ -3,7 +3,7 @@
 # Elle va appeller la fonction d'initialisation de l'ensemble du serveur.
 #
 # Trigger mode: load
-# Trigger(s): load.json
+# Trigger(s): "load.json"
 #
 # Used tags :
 #

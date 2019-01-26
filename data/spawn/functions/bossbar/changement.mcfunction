@@ -2,7 +2,7 @@
 # Elle gère les changements de la bossbar du spawn.
 #
 # Type d'activation : event
-# Activateur(s) : "bossbar.mcfunction"
+# Activateur(s) : "spawn:bossbar"
 #
 # Tag(s) utilisé(s) :
 #

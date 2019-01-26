@@ -2,7 +2,7 @@
 # Cette fonction sert à se rendre invisible.
 #
 # Mode de déclenchament : event
-# Déclencheur(s) : "cmd.mcfunction"
+# Déclencheur(s) : "commandes:cmd_staff"
 #
 # Tags utilisés :
 # 1- "isVanish"

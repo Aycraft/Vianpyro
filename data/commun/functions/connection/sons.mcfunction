@@ -2,7 +2,7 @@
 # Cette fonction appelle les differents sons de connection des joueurs.
 #
 # Mode de déclenchament : event
-# Déclencheur(s) : "connection.mcfunction"
+# Déclencheur(s) : "commun:connection"
 #
 # Tags utilisés :
 #

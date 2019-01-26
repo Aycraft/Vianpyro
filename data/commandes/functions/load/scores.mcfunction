@@ -2,7 +2,7 @@
 # Cette fonction crée tous les scores relatifs aux commandes personalisées.
 #
 # Type d'activation : load
-# Activateur(s) : "load.mcfunction"
+# Activateur(s) : "commandes:load"
 #
 # Tag(s) utilisé(s) :
 #
@@ -15,3 +15,4 @@ tellraw @a ["",{"text":"§7§lServeur » §r"},{"text":"Initialisation des score
 # Scores
 scoreboard objectives add cmdRunCmd trigger
 scoreboard objectives add cmdRunStaffCmd trigger
+scoreboard objectives add cmdHelpopMessage dummy

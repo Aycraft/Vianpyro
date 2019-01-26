@@ -2,7 +2,7 @@
 # Cette fonction sert à obtenir les objets de modération.
 #
 # Mode de déclenchament : event
-# Déclencheur(s) : "cmd.mcfunction"
+# Déclencheur(s) : "commandes:cmd_staff"
 #
 # Tags utilisés :
 #

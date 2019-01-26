@@ -5,7 +5,8 @@
 # Déclencheur(s) : "commandes:cmd_joueurs"
 #
 # Tags utilisés :
-#
+# 1 - "helpOped"
+# 2 - "unHelpOped"
 # ==================================================================================================
 
 # Messages

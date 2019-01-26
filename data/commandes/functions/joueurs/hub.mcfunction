@@ -13,7 +13,7 @@
 # Téléportation
 function commun:outils/teleportation_options
 tp @s 0 1 0 0 0
-tellraw @s ["",{"text":"§7§lServeur » §r"},{"text":"Vous avez été téléporté(e) au hub","color":"red"}]
+tellraw @s ["",{"text":"§7§lServeur » §r"},{"text":"Vous avez été téléporté(e) au hub","color":"green"}]
 
 # Réinitialisation du score qui detecte la commande
 scoreboard players set @s cmdRunCmd 0

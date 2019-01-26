@@ -18,8 +18,9 @@ execute if score @s cmdRunStaffCmd matches 1 run function commandes:staff/clearc
 
 # 3 - Freeze <player>(id) : Immobiliser un joueur
 # 4 - God : Se rendre invincible
-# 5 - Modotools : Obtenir les objets de modération
+execute if score @s cmdRunStaffCmd matches 4 run function commandes:staff/god
 
+# 5 - Modotools : Obtenir les objets de modération
 # 6 - Vanish : Disparaître
 execute if score @s cmdRunStaffCmd matches 6 run function commandes:staff/vanish
 

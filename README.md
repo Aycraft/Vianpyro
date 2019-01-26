@@ -1,7 +1,7 @@
 # Aycraft
 **Aycraft** est un serveur Minecraft full vanilla, voici son ip :
 ## Un peu d'histoire
-Ce serveur a une très longue histoire, il a commencé le (s'il vous plaît propriétaire, insérez la date de fondation), et est encore actif aujourd'hui !
+Ce serveur a une très longue histoire, il a commencé le 6 juin 2017, et est encore actif aujourd'hui !
 ## Commencez à travailler !
 - Vous voulez rejoindre l'équipe d'Aycraft ? [Postulez](https://github.com/Aycraft/Aycraft_1.14/blob/master/README.md) !
 - Vous préférez travailler en solo ? Utilisez git ou le bouton de téléchargement (à droite) pour télécharger le code du serveur.

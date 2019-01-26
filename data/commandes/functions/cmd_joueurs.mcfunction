@@ -16,6 +16,7 @@ execute if score @s cmdRunCmd matches 1 run scoreboard players set @s cmdRunCmd 
 execute if score @s cmdRunCmd matches 2 run function commandes:joueurs/hub
 
 # 3 - Helpop : Envoie un message régulièrement aux membres du staff pour indiquer que le joueur veut de l'aide
+execute if score @s cmdRunCmd matches 3 run function commandes:joueurs/helpop
 
 # Réinitialisation du score de detection de l'execution d'une commande par un joueur
 execute if score @s cmdRunCmd matches 1.. run tellraw @s ["",{"text":"§7§lServeur » §r"},{"text":"Cette commande n'existe pas","color":"red"}]

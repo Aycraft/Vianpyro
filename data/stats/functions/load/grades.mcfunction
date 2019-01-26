@@ -94,6 +94,33 @@ team modify Assistant nametagVisibility always
 team modify Assistant prefix ["",{"text":"Assistant ","color":"aqua","bold":"true"},{"text":"» ","color":"gray"}]
 team modify Assistant seeFriendlyInvisibles false
 
+team add Test-Ingenieur
+team modify Test-Ingenieur collisionRule never
+team modify Test-Ingenieur color white
+team modify Test-Ingenieur deathMessageVisibility never
+team modify Test-Ingenieur friendlyFire true
+team modify Test-Ingenieur nametagVisibility always
+team modify Test-Ingenieur prefix ["",{"text":"Test-Ingénieur ","color":"green","bold":"true"},{"text":"» ","color":"gray"}]
+team modify Test-Ingenieur seeFriendlyInvisibles false
+
+team add Test-Builder
+team modify Test-Builder collisionRule never
+team modify Test-Builder color white
+team modify Test-Builder deathMessageVisibility never
+team modify Test-Builder friendlyFire true
+team modify Test-Builder nametagVisibility always
+team modify Test-Builder prefix ["",{"text":"Test-Builder ","color":"dark_aqua","bold":"true"},{"text":"» ","color":"gray"}]
+team modify Test-Builder seeFriendlyInvisibles false
+
+team add Test-Moderateur
+team modify Test-Moderateur collisionRule never
+team modify Test-Moderateur color white
+team modify Test-Moderateur deathMessageVisibility never
+team modify Test-Moderateur friendlyFire true
+team modify Test-Moderateur nametagVisibility always
+team modify Test-Moderateur prefix ["",{"text":"Test-Modérateur ","color":"yellow","bold":"true"},{"text":"» ","color":"gray"}]
+team modify Test-Moderateur seeFriendlyInvisibles false
+
 team add Legende
 team modify Legende collisionRule never
 team modify Legende color white
@@ -111,6 +138,15 @@ team modify Hero friendlyFire true
 team modify Hero nametagVisibility always
 team modify Hero prefix ["",{"text":"Héro ","color":"light_purple"},{"text":"» ","color":"gray"}]
 team modify Hero seeFriendlyInvisibles false
+
+team add Test-Youtubeur
+team modify Test-Youtubeur collisionRule never
+team modify Test-Youtubeur color white
+team modify Test-Youtubeur deathMessageVisibility never
+team modify Test-Youtubeur friendlyFire true
+team modify Test-Youtubeur nametagVisibility always
+team modify Test-Youtubeur prefix ["",{"text":"Youtubeur ","color":"red"},{"text":"» ","color":"gray"}]
+team modify Test-Youtubeur seeFriendlyInvisibles false
 
 team add MVP++
 team modify MVP++ collisionRule never

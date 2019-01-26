@@ -1,5 +1,5 @@
 # ==================================================================================================
-# Cette fonction gère l'execution des toutes les commandes personnalisées.
+# Cette fonction gère l'execution des toutes les commandes personnalisées du staff.
 #
 # Mode de déclenchament : tick
 # Déclencheur(s) : "minecraft:tick"
@@ -13,14 +13,14 @@ execute unless score @s statsGrade matches 10.. run scoreboard players set @s cm
 execute if score @s cmdRunStaffCmd matches 0 run tellraw @s ["",{"text":"§7§lServeur » §r"},{"text":"Vous n'avez pas accès à cette commande","color":"red"}]
 execute if score @s cmdRunStaffCmd matches 0 run scoreboard players reset @s cmdRunStaffCmd
 
-# 1 - Clearchat : Vide tout le chat pour tous les joueurs (seulement le staff)
+# 1 - Clearchat : Vide tout le chat pour tous les joueurs
 execute if score @s cmdRunStaffCmd matches 1 run function commandes:staff/clearchat
 
 # 3 - Freeze <player>(id) : Immobiliser un joueur
 # 4 - God : Se rendre invincible
 # 5 - Modotools : Obtenir les objets de modération
 
-# 6 - Vanish : Disparaître (seulement le staff)
+# 6 - Vanish : Disparaître
 execute if score @s cmdRunStaffCmd matches 6 run function commandes:staff/vanish
 
 # Réinitialisation du score de detection de l'execution d'une commande par un joueur

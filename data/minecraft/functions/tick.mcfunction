@@ -22,5 +22,6 @@ execute if entity @a run function spawn:bossbar
 scoreboard players enable @a cmdRunCmd
 scoreboard players enable @a cmdRunStaffCmd
 execute as @a if score @s cmdRunCmd matches 1.. run function commandes:cmd
-execute as @a if score @s cmdRunStaffCmd matches 1.. run function commandes:staff_cmd
+execute as @a if score @s cmdRunStaffCmd matches 1.. run function commandes:cmd_staff
+execute as @a if score @s cmdRunCmd matches 1.. run function commandes:cmd_joueurs
 execute if entity @a run function commandes:cmd_effects

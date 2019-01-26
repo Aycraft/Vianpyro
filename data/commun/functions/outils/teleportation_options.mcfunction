@@ -2,7 +2,7 @@
 # Cette fonction gère les rêglages de téléportation des joueurs.
 #
 # Mode de déclenchament : event
-# Déclencheur(s) : "commun:connection"
+# Déclencheur(s) : "commun:connection", "commandes:joueurs/hub"
 #
 # Tags utilisés :
 #

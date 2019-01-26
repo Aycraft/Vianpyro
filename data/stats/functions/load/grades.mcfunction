@@ -139,14 +139,14 @@ team modify Hero nametagVisibility always
 team modify Hero prefix ["",{"text":"Héro ","color":"light_purple"},{"text":"» ","color":"gray"}]
 team modify Hero seeFriendlyInvisibles false
 
-team add Test-Youtubeur
-team modify Test-Youtubeur collisionRule never
-team modify Test-Youtubeur color white
-team modify Test-Youtubeur deathMessageVisibility never
-team modify Test-Youtubeur friendlyFire true
-team modify Test-Youtubeur nametagVisibility always
-team modify Test-Youtubeur prefix ["",{"text":"Youtubeur ","color":"red"},{"text":"» ","color":"gray"}]
-team modify Test-Youtubeur seeFriendlyInvisibles false
+team add Youtubeur
+team modify Youtubeur collisionRule never
+team modify Youtubeur color white
+team modify Youtubeur deathMessageVisibility never
+team modify Youtubeur friendlyFire true
+team modify Youtubeur nametagVisibility always
+team modify Youtubeur prefix ["",{"text":"Youtubeur ","color":"red"},{"text":"» ","color":"gray"}]
+team modify Youtubeur seeFriendlyInvisibles false
 
 team add MVP++
 team modify MVP++ collisionRule never

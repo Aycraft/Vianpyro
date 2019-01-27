@@ -7,7 +7,7 @@ assignees: Vianpyro, mathaym25
 
 ---
 
-**Decrivez le bug**
+**Description du bug**
 Une description claire et concise de ce qu'est le bug.
 
 **Pour reproduire**
@@ -26,7 +26,7 @@ Ajoutez des captures d'écran pour expliquer plus explicitement votre problème.
 **Matériel**
  - OS (ex : iOS/Windows/Linux...)
  - Version de Minecraft que vous utilisez.
- - Version du serveur au moment du bug.
+ - Version du serveur au moment du bug (si introuvable, la date à laquelle à été trouvé le bug).
 
 **Contexte supplémentaire**
 Ajoutez ici tout autre information sur le problème.

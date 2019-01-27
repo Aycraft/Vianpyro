@@ -15,8 +15,8 @@ execute unless entity @s[nbt={foodLevel:20}] run effect give @s saturation 1 255
 execute unless entity @s[nbt={Health:20.0f}] run effect give @s instant_health 1 225 true
 
 # Désactivation du pvp
-execute at @s if entity @e[distance=0.001..10] run effect give @s weakness 1 255 true
-execute at @s if entity @e[distance=0.001..10] run effect give @s resistance 1 255 true
+execute at @s[gamemode=!creative] if entity @e[distance=0.001..10] run effect give @s weakness 1 255 true
+execute at @s[gamemode=!creative] if entity @e[distance=0.001..10] run effect give @s resistance 1 255 true
 
 # Protection contre les dégats de chute
 function commun:outils/tags/motion

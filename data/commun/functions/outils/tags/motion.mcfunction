@@ -2,7 +2,7 @@
 # Cette fonction sert à detecter les mouvements basiques des joueurs.
 #
 # Type d'activation : events
-# Activateur(s) : "move_detection", "protection"
+# Activateur(s) : "commun:outils/protection", "commun:outils/detection/move_detection"
 #
 # Tag(s) utilisé(s) :
 #

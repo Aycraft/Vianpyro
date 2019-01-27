@@ -21,7 +21,9 @@ execute if entity @a run function spawn:bossbar
 # Execution des commandes personnalisées
 scoreboard players enable @a cmdRunCmd
 scoreboard players enable @a cmdRunStaffCmd
+scoreboard players enable @a cmdRunFreeze
 
 execute as @a if score @s cmdRunCmd matches 1.. run function commandes:cmd_joueurs
 execute as @a if score @s cmdRunStaffCmd matches 1.. run function commandes:cmd_staff
+execute as @a if score @s cmdRunFreeze matches 1.. run function commandes:staff/freeze
 execute if entity @a run function commandes:cmd_effects
